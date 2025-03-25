@@ -1,0 +1,5 @@
+console.log("David Moreno inicia clase")
+console.log("David Moreno inicia clase 2 cambio")
+console.log("David Moreno inicia clase 3 cambios")
+console.log("David Moreno inicia clase 3 cambios")
+console.log("David Moreno inicia clase 3 cambios")
